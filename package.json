@@ -1,0 +1,19 @@
+{
+  "name": "sendbix-i18n",
+  "license": "MIT",
+  "description": "Sendbix i18n",
+  "version": "0.0.1",
+  "author": "sendbix",
+  "keywords": [
+    "email template builder"
+  ],
+  "files": [
+    "locales"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
